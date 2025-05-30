@@ -12,6 +12,10 @@ Browse playlists, trending songs, and featured charts in a modern, Spotify-like 
 - Music player footer with album art and controls
 - Responsive design using Google Fonts and Font Awesome icons
 
+## Preview
+
+![Spotify Clone Video (LinkedIn)](https://www.linkedin.com/posts/prashant-soni-_webdevelopment-frontenddevelopment-html-activity-7312167613642543105-a9-8?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADzxiFABXIYbvODgm9CNyH918L4CltAW-XA)
+
 ## Getting Started
 
 1. **Clone this repository:**
